@@ -7,10 +7,15 @@ p {
  font-size: 25px; 
 }
 
-body {
+h1 {
  background-color:MintCream; 
 }
 
-head {
- background-color:Blue; 
+
+div {
+  background-color: lightblue;
+}
+
+p {
+  background-color: yellow;
 }
