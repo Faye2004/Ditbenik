@@ -1,12 +1,13 @@
 h1 {
-  color: black;
+  color: White;
   font-size: 50px;
 }
 
 p {
+  color: Yellow;
  font-size: 25px; 
 }
 
 body {
- background-color:MintCream; 
+ background-color:Indigo; 
 }
