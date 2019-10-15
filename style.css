@@ -9,5 +9,9 @@ p {
 }
 
 body {
- background-color:Blue; 
+ background-color:DarkBlue; 
+}
+
+h2 {
+ color: white; 
 }
