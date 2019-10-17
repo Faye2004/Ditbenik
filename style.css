@@ -3,6 +3,10 @@ h1 {
   font-size: 50px;
 }
 
+h2 {
+  color: Yellow;
+  }
+
 p {
   color: Black;
  font-size: 25px; 
@@ -16,7 +20,4 @@ a {
  color: Black; 
 {
 
-h2 {
-  color: Yellow;
-  }
 
